@@ -1,5 +1,8 @@
 # project
 
+## Compiles backend for development
+npm run dev
+
 ## Project setup
 ```
 npm install
